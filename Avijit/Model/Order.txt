@@ -1,5 +1,0 @@
-01|Avijit|Iphone 14|110000|Pending
-02|Avijit|Headphone|1400|Received
-03|Avijit|Laptop|79990|Awaiting Payment
-04|Avijit|Body Spray|850|Awaiting Shipment
-05|Avijit|Router|1450|Delivered
