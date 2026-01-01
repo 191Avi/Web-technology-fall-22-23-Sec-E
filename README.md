@@ -1,1 +1,1 @@
-# Web-technology-fall-22-23-Sec-E
+# Web-technology
